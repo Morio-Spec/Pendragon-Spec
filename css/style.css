@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'MedievalSharp', 'Garamond', serif;
-  background: url('C:/Users/kauar/Desktop/Pendragon/assets/images/wooden-floor-background.jpg') no-repeat center center fixed;
+  background: url('assets/images/wooden-floor-background.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #2c1b10;
 }
@@ -11,7 +11,7 @@ body {
 .main-page .hero {
   text-align: center;
   padding: 5rem 2rem;
-  background: url('C:/Users/kauar/Desktop/Pendragon/assets/images/ricardo-cruz-P8LZaU52NME-unsplash.jpg') no-repeat center center;
+  background: url('assets/images/ricardo-cruz-P8LZaU52NME-unsplash.jpg') no-repeat center center;
   background-size: cover;
   color: #fff;
   text-shadow: 2px 2px #000;
